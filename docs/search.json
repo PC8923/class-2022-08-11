@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\nGitHub\r\nData Science\r\nbootcamp\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-11T20:39:50-04:00"
+    },
+    {
+      "path": "Counties.html",
+      "title": "Counties",
+      "description": "Economic Connectedness by County\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-11T20:39:59-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Economic Connectedness",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-11T20:40:02-04:00"
+    }
+  ],
+  "collections": []
+}

@@ -8,3 +8,5 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+* [GitHub](https://github.com/PC8923)
+* [Data Science bootcamp](https://bootcamp.davidkane.info/)
